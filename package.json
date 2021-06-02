@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aibarito.github.io/my-login-page",
-  "name": "monsters",
+  "name": "login-page",
+  "homepage": "https://aibarito.github.io/login-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
