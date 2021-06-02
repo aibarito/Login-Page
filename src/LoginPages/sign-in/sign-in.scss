@@ -1,0 +1,18 @@
+.sign-in{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    .sign-up-link{
+        padding-top: 20px;
+        color: black;
+        text-decoration: none;
+    }
+    .buttons{
+        display:flex;
+        justify-content: space-between;
+        width: 100%
+        }
+}
+    
